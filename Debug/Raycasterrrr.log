@@ -1,0 +1,75 @@
+﻿  main.c
+C:\Users\User\source\repos\Raycasterrrr\main.c(15,48): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(17,62): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(17,95): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(17,109): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(90,78): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(91,78): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(92,78): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(93,78): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(106,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(107,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(115,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(131,57): warning C4244: 'function': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(101,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(109,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(113,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(156,73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(157,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(163,158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(170,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(171,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(172,79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(178,158): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(183,25): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\source\repos\Raycasterrrr\main.c(186,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\User\source\repos\Raycasterrrr\main.c(189,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(189,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(193,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(196,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(201,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(202,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(221,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(222,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(249,29): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(155,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(189,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(190,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(191,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(206,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(207,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(208,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(220,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(225,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(226,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(227,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(297,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(287,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(288,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(289,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(304,21): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\User\source\repos\Raycasterrrr\main.c(304,26): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\User\source\repos\Raycasterrrr\main.c(304,31): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+C:\Users\User\source\repos\Raycasterrrr\main.c(306,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(306,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(319,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(321,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(325,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(329,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(329,85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(329,111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(330,43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(330,85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(330,111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(340,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(341,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(345,76): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(346,76): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(354,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(355,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(336,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(337,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(373,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(374,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Raycasterrrr\main.c(404,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Raycasterrrr.vcxproj -> C:\Users\User\source\repos\Raycasterrrr\Debug\Raycasterrrr.exe
